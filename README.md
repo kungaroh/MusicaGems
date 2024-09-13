@@ -8,6 +8,9 @@ Code for the game Musica Gems can be found in /Assets/Scripts/
 
 # Assets used but not created:
 JustCreate,  Simple Nature Pack. [Art].
+
 Mehrasaur, Treasure Pack. [Art].
+
 Night, S., Low Poly Pack - Environment Lite. [Art].
+
 Pixaby - Quake and Break (rumble sound) [Sound]
