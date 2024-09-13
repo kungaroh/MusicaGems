@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 65b125b4b7615dd40b9d60c7ae74b8d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gemTones: {fileID: 11400000, guid: 83c61e3987a0e4b4d926d3e52d688161, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
