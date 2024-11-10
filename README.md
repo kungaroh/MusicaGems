@@ -4,7 +4,7 @@ This is the game Musica Gems, it is a puzzle game where you complete sound based
 
 # Find the game [here](https://kungaroh.itch.io/musica-gems)
 
-Code for the game Musica Gems can be found in [/Assets/Scripts/](/Assets/Scripts/)
+Code for the game Musica Gems can be found in [/Assets/Scripts/](/Assets/scripts/)
 
 # Assets used but not created:
 + JustCreate,  Simple Nature Pack. [Art].
